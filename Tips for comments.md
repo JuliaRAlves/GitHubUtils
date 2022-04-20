@@ -37,6 +37,7 @@ Example code:
 <p float="left" /> <!-- you can try float="right" as well -->
 <img width="300" src="https://images-na.ssl-images-amazon.com/images/I/71+mDoHG4mL.png" />
 <!-- width depends on the images you're using -->
+<!-- also works for gifs and other types of images, but doesn't work for videos -->
 <img width="300" src="https://www.pngarts.com/files/1/Baby-Cat-PNG-Picture.png" />
 <img width="300" src="https://www.pngarts.com/files/10/Cat-PNG-High-Quality-Image.png" />
 </p>
