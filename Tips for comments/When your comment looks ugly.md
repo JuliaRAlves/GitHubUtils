@@ -12,18 +12,6 @@ Example code:
 <!-- you can use any link you want (specially with insanely huge links ;) ) -->
 ```
 
-#### ✨ Extra tip ✨
-
-Example:
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">This link opens in a new tab</a>
-
-Example code:
-```html
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">This link opens in a new tab</a>
-<!-- HTML course pays off -->
-```
-
 ### Enhance your code block
 
 Bad examples:
